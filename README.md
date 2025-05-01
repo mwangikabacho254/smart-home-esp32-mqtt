@@ -50,4 +50,7 @@ This project demonstrates a secure, real-time home automation system built using
   - MQTT connection status label
   - LED toggle switch
 
+Documentation (coming soon) Technical Manual Schematic Diagram
+License This project is licensed under the MIT License. See the LICENSE file for details.
 
+Maintained by Ephraim Mwangi — 2025
