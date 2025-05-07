@@ -34,14 +34,14 @@ This project demonstrates a secure, real-time home automation system built using
 - Password: ***
 - Topic: home/livingroom/light
 
-## ESP32 SSL Configuration
+ ESP32 SSL Configuration
 
 - SSL enabled using Let's Encrypt root certificate.
 - Time synchronization via NTP (required for SSL).
 - PubSubClient library used for MQTT.
 - WiFiClientSecure for TLS layer.
 
-## Mobile App (MIT App Inventor)
+ Mobile App (MIT App Inventor)
 
 - Uses UrsPahoMqttClient extension.
 - Configured with SSL protocol.
