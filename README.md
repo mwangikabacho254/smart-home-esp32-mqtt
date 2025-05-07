@@ -3,13 +3,13 @@
 This project demonstrates a secure, real-time home automation system built using an ESP32 microcontroller and a mobile application developed in MIT App Inventor. Communication between the app and the ESP32 is handled over a secure SSL-encrypted MQTT connection hosted on HiveMQ Cloud.
 
 <img src="Images/mobile.jpg" alt="Circuit View" width="300"/>
-## Project Goals
+ Project Goals
 
 - Enable control of smart devices over the internet using secure protocols.
 - Demonstrate SSL-based MQTT communication for IoT safety.
 - Provide a scalable architecture for expanding to more devices.
 
-## Components
+ Components
 
 - ESP32 development board
 - HiveMQ Cloud MQTT broker
@@ -19,14 +19,14 @@ This project demonstrates a secure, real-time home automation system built using
 <img src="Images/esp.jpg" alt="Circuit View" width="300"/>
 
 <img src="Images/mit.jpg" alt="Circuit View" width="450"/>
-## Features
+ Features
 
 - Toggle LED on the ESP32 board via the app.
 - Display live connection status.
 - Secure communication using SSL (Port 8883).
 - Structured and documented for scalability and GitHub collaboration.
 
-## MQTT Configuration
+ MQTT Configuration
 
 - Broker:*****
 - Port: *** (SSL)
